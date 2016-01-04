@@ -1,0 +1,58 @@
+
+			h1 {
+				text-align: center;
+				font-weight: bold;
+				text-decoration: underline;
+				line-height: 100px;
+				
+				
+			}
+			h3 {
+				text-align: center;
+				
+			}
+			
+			ul {
+				list-style-type: circle;
+				text-align: left;
+				color: black;
+				line-height: 40px;
+				
+				
+			}
+			body {
+				color:black;
+				background-color:#9af5fb;
+				font-size: medium;
+				border: #155825 dashed 0px;
+				padding-left: 150px;
+				padding-right: 150px;
+					
+			}
+			
+			a:link {
+				color:black;
+				text-decoration: none;
+			}
+			a:hover {
+				color:red;
+				text-decoration: underline;
+			}
+			a:visited {
+				color: black;
+			}
+			
+			#p1 {
+				text-indent: 50px;
+				
+			}
+			span {
+				font-size: xx-large;
+				font-weight: bold;
+			}
+			#end {
+				border: #c62e2e double 0px;
+				font-size: xx-large;
+				text-align: center
+			}
+			
